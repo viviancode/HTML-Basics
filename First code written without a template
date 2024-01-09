@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Learning the HTML Structure</title>
+  </head>
+
+  <body>
+    <h1>Learning the HTML Structure</h1> 
+    <p>Welcome! Hi, my name is Vivian. I am an aspiring developer, learning HTML. This is the very first code that I am writing from scratch as I am learning the HTML structure, without the use of any templates.</p>
+  </body>
+</html>
+
